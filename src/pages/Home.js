@@ -142,7 +142,7 @@ function Home() {
       </div>
 
       <footer className="footer">
-        <p>© 2025 Sonu Kumar. All rights reserved.</p>
+        <p>© 2025 Aman Kumar. All rights reserved.</p>
       </footer>
     </div>
   );
